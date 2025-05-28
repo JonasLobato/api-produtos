@@ -1,0 +1,56 @@
+##Build Results,
+bin/
+obj/
+out/
+
+##User-specific files,
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+##Visual Studio Code,
+.vscode/
+*.code-workspace
+
+##Rider,
+.idea/
+*.sln.iml
+
+##ASP.NET Scaffolding,
+ScaffoldingReadMe.txt
+
+##Package directories,
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+##Backup & temporary files,
+*~
+*.tmp
+*.bak
+*.swp
+
+##Logs,
+.log
+
+##Publish output,
+wwwroot/dist/
+wwwroot/node_modules/
+wwwroot/lib/
+
+##OS generated files,
+.DS_Store
+Thumbs.db
+
+##Secrets,
+appsettings.Development.json
+appsettings..Secrets.json
+secrets.json
+
+##Others (se você usar essas tecnologias),
+node_modules/
+bower_components/
+.env
+.env.*

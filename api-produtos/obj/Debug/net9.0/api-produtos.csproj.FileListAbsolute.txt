@@ -90,3 +90,4 @@ C:\Users\jonas\Desktop\api-produtos\api-produtos\obj\Debug\net9.0\refint\api-pro
 C:\Users\jonas\Desktop\api-produtos\api-produtos\obj\Debug\net9.0\api-produtos.pdb
 C:\Users\jonas\Desktop\api-produtos\api-produtos\obj\Debug\net9.0\api-produtos.genruntimeconfig.cache
 C:\Users\jonas\Desktop\api-produtos\api-produtos\obj\Debug\net9.0\ref\api-produtos.dll
+C:\Users\jonas\Desktop\api-produtos\api-produtos\obj\Debug\net9.0\api-produtos.sourcelink.json
